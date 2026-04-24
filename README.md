@@ -9,9 +9,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ## Skills and Project
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| MYDFIR Splunk101 Capstone Report          |<a href="https://github.com/Shr3K667/MYDFIR-Splunk101-Capstone-Report">Splunk101-Capstone-Report</a>|
+| Skill                                         | Associated Project         |Overview         |
+|-----------------------------------------------|----------------------------|-----------------|
+| MYDFIR Splunk101 Capstone Report          |<a href="https://github.com/Shr3K667/MYDFIR-Splunk101-Capstone-Report">Splunk101-Capstone-Report</a>|Investigated a simulated intrusion (Initial Access → Execution → Persistence → C2) using Splunk. Built detections for brute-force RDP, encoded PowerShell, and external beaconing. Delivered final timeline & report demonstrating SOC analysis workflow|
 
 ## Tools
 
