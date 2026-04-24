@@ -1,7 +1,7 @@
 # Hello, I'm Florian
 <a href="https://linkedin.com/in/florian-besnier-895938403/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am a generalist engineer with 10 years of experience in consulting, particularly in ERP functional expertise and Tier 3 support
 
 ## Objective
 
@@ -11,7 +11,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| MYDFIR Splunk101 Capstone Report          | <a href="https://google.com">Detection Lab</a>|
+| MYDFIR Splunk101 Capstone Report          |<a href="https://github.com/Shr3K667/MYDFIR-Splunk101-Capstone-Report">Splunk101-Capstone-Report</a>|
 
 ## Tools
 
